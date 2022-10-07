@@ -1,4 +1,5 @@
-"""Description...
+"""Draw graphs to compare results with 
+different preferences for CBDC.
 """
 
 # Import packages
