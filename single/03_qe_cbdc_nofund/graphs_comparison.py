@@ -1,4 +1,5 @@
-"""Description...
+"""Draw graphs to compare results with and without CB funding
+in absence of preference for CBDC.
 """
 
 # Import packages

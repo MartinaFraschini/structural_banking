@@ -1,4 +1,5 @@
-"""Description...
+"""Draw graphs to compare results with 
+different values for CB funding interest rate.
 """
 
 # Import packages
